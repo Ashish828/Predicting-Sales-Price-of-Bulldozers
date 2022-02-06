@@ -1,7 +1,7 @@
 # Predicting Sales Price of Bulldozers
 
 **Description:**
-The goal of this project is to predict the sale price of a particular piece of heavy equiment at auction based on it's usage, equipment type, and configuaration. The data is sourced from auction result postings and includes information on usage and equipment configurations.
+The goal of this project is to predict the sale price of a particular piece of heavy equipment at auction based on it's usage, equipment type, and configuration. The data is sourced from auction result postings and includes information on usage and equipment configurations.
 
 **The key fields are in train.csv are:**
 * SalesID: the uniue identifier of the sale.
